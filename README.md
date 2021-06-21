@@ -1,4 +1,4 @@
-# Dataset and Source Code for *Breast Cancer Histopathological Image Classification using Progressive Resizing Approach*
+# Dataset and Source Code for *Breast Cancer Histopathological Image Classification using Progressive Resizing Approach* (Bunyamin et al.,2021)
 
 The article is published at International Conference on Emerging Issues in Technology, Engineering, and Science (ICE-TES) 2021.
 
